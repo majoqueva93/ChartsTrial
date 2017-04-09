@@ -54,6 +54,8 @@ class FirstViewController: UIViewController, JBBarChartViewDelegate, JBBarChartV
         barChart.setState(.collapsed, animated: false)
         showChart() // Remember to add this command to show graph
         
+        //Making changes
+        
     }
     
     
