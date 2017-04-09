@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "486BD6E01E94283900E7673A"
-               BuildableName = "ChartsTrial.app"
-               BlueprintName = "ChartsTrial"
+               BlueprintIdentifier = "486BD70A1E942CA500E7673A"
+               BuildableName = "JBChart.framework"
+               BlueprintName = "JBChart"
                ReferencedContainer = "container:ChartsTrial.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,26 +28,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "486BD6F61E94283900E7673A"
-               BuildableName = "ChartsTrialUITests.xctest"
-               BlueprintName = "ChartsTrialUITests"
-               ReferencedContainer = "container:ChartsTrial.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "486BD6E01E94283900E7673A"
-            BuildableName = "ChartsTrial.app"
-            BlueprintName = "ChartsTrial"
-            ReferencedContainer = "container:ChartsTrial.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -61,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "486BD6E01E94283900E7673A"
-            BuildableName = "ChartsTrial.app"
-            BlueprintName = "ChartsTrial"
+            BlueprintIdentifier = "486BD70A1E942CA500E7673A"
+            BuildableName = "JBChart.framework"
+            BlueprintName = "JBChart"
             ReferencedContainer = "container:ChartsTrial.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -80,16 +60,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "486BD6E01E94283900E7673A"
-            BuildableName = "ChartsTrial.app"
-            BlueprintName = "ChartsTrial"
+            BlueprintIdentifier = "486BD70A1E942CA500E7673A"
+            BuildableName = "JBChart.framework"
+            BlueprintName = "JBChart"
             ReferencedContainer = "container:ChartsTrial.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
